@@ -54,9 +54,10 @@ li a {
 aside img {
   padding-top: 1.5em;
   border-color: 5px;
-    
+  height: 357px;
 }
-  a:visited {
+
+a:visited {
     color: #595959;
 }
 body {
@@ -86,6 +87,9 @@ footer p {
   font-size: .75em;
 }
 
+footer a {
+  padding: .3em .2em;
+}
 nav.footer a {
   list-style-type: none;
   margin: 0;
